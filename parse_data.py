@@ -1,6 +1,8 @@
 import csv
 import simplekml #http://www.simplekml.com/en/latest/
 import sys
+import urllib2
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -10,7 +12,10 @@ csv_address_column = 2
 csv_cost_column = 3
 csv_sqm_column = 4
 csv_cost_per_sqm_column = 5
+url="https://maps.googleapis.com/maps/api/geocode/json?address=Targowa+33B&key=AIzaSyDh4DBgfTfNtRSyohUdyGAY76SV9BnIkU8"
 
+content=urllib2.urlopen(url).read()
+print(content)
 
 inputfile = csv.reader(open('data.csv','r'))
 kml=simplekml.Kml()
