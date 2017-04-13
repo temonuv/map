@@ -4,7 +4,7 @@
         <Placemark id="feat_2">
             <name>Popiełuszki Jerzego 17B/11</name>
             <address>Popiełuszki Jerzego 17B/11</address>
-            <description> address: Popiełuszki Jerzego 17B/11 area: 18.00sqm</description>
+            <description> area: 18.00sqm</description>
             <Point id="geom_0">
                 <coordinates>52.2690091,20.9736372,0.0</coordinates>
             </Point>
@@ -12,7 +12,7 @@
         <Placemark id="feat_3">
             <name>Barkocińska 15/8</name>
             <address>Barkocińska 15/8</address>
-            <description> address: Barkocińska 15/8 area: 19.01sqm</description>
+            <description> area: 19.01sqm</description>
             <Point id="geom_1">
                 <coordinates>52.2684349,21.056487,0.0</coordinates>
             </Point>
@@ -20,7 +20,7 @@
         <Placemark id="feat_4">
             <name>Długosza Jana 22/8</name>
             <address>Długosza Jana 22/8</address>
-            <description> address: Długosza Jana 22/8 area: 21.91sqm</description>
+            <description> area: 21.91sqm</description>
             <Point id="geom_2">
                 <coordinates>50.706183,23.2571988,0.0</coordinates>
             </Point>
@@ -28,7 +28,7 @@
         <Placemark id="feat_5">
             <name>Bolivara Simona 2/32</name>
             <address>Bolivara Simona 2/32</address>
-            <description> address: Bolivara Simona 2/32 area: 27.00sqm</description>
+            <description> area: 27.00sqm</description>
             <Point id="geom_3">
                 <coordinates>52.2893058,21.0426555,0.0</coordinates>
             </Point>
@@ -36,7 +36,7 @@
         <Placemark id="feat_6">
             <name>Brechta Bertolta 13/3</name>
             <address>Brechta Bertolta 13/3</address>
-            <description> address: Brechta Bertolta 13/3 area: 26.71sqm</description>
+            <description> area: 26.71sqm</description>
             <Point id="geom_4">
                 <coordinates>52.2605475,21.0328469,0.0</coordinates>
             </Point>
@@ -44,7 +44,7 @@
         <Placemark id="feat_7">
             <name>Skarbka z Gór 134b/7</name>
             <address>Skarbka z Gór 134b/7</address>
-            <description> address: Skarbka z Gór 134b/7 area: 33.90sqm</description>
+            <description> area: 33.90sqm</description>
             <Point id="geom_5">
                 <coordinates>52.3221549,21.059828,0.0</coordinates>
             </Point>
@@ -52,7 +52,7 @@
         <Placemark id="feat_8">
             <name>Wysockiego 2/111</name>
             <address>Wysockiego 2/111</address>
-            <description> address: Wysockiego 2/111 area: 40.80sqm</description>
+            <description> area: 40.80sqm</description>
             <Point id="geom_6">
                 <coordinates>52.2818806,21.0260413,0.0</coordinates>
             </Point>
