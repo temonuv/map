@@ -4,57 +4,57 @@
         <Placemark id="feat_2">
             <name>Popiełuszki Jerzego 17B/11</name>
             <address>Popiełuszki Jerzego 17B/11</address>
-            <description> area: 18.00sqm</description>
+            <description>cena/m2 6,444.44 zł  area: 18.00</description>
             <Point id="geom_0">
-                <coordinates>52.2690091,20.9736372,0.0</coordinates>
+                <coordinates>20.9736372,52.2690091,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_3">
             <name>Barkocińska 15/8</name>
             <address>Barkocińska 15/8</address>
-            <description> area: 19.01sqm</description>
+            <description>cena/m2 6,522.88 zł  area: 19.01</description>
             <Point id="geom_1">
-                <coordinates>52.2684349,21.056487,0.0</coordinates>
+                <coordinates>21.056487,52.2684349,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_4">
             <name>Długosza Jana 22/8</name>
             <address>Długosza Jana 22/8</address>
-            <description> area: 21.91sqm</description>
+            <description>cena/m2 5,819.26 zł  area: 21.91</description>
             <Point id="geom_2">
-                <coordinates>50.706183,23.2571988,0.0</coordinates>
+                <coordinates>20.9663941,52.240157,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_5">
             <name>Bolivara Simona 2/32</name>
             <address>Bolivara Simona 2/32</address>
-            <description> area: 27.00sqm</description>
+            <description>cena/m2 5,833.33 zł  area: 27.00</description>
             <Point id="geom_3">
-                <coordinates>52.2893058,21.0426555,0.0</coordinates>
+                <coordinates>21.0426555,52.2893058,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_6">
             <name>Brechta Bertolta 13/3</name>
             <address>Brechta Bertolta 13/3</address>
-            <description> area: 26.71sqm</description>
+            <description>cena/m2 6,140.02 zł  area: 26.71</description>
             <Point id="geom_4">
-                <coordinates>52.2605475,21.0328469,0.0</coordinates>
+                <coordinates>21.0328469,52.2605475,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_7">
             <name>Skarbka z Gór 134b/7</name>
             <address>Skarbka z Gór 134b/7</address>
-            <description> area: 33.90sqm</description>
+            <description>cena/m2 5,162.24 zł  area: 33.90</description>
             <Point id="geom_5">
-                <coordinates>52.3221549,21.059828,0.0</coordinates>
+                <coordinates>21.059828,52.3221549,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_8">
             <name>Wysockiego 2/111</name>
             <address>Wysockiego 2/111</address>
-            <description> area: 40.80sqm</description>
+            <description>cena/m2 4,509.80 zł  area: 40.80</description>
             <Point id="geom_6">
-                <coordinates>52.2818806,21.0260413,0.0</coordinates>
+                <coordinates>21.0260413,52.2818806,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>

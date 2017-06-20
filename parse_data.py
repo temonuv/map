@@ -32,9 +32,11 @@ for row in inputfile:
   if(row[csv_address_column]!=''): #remove empty lines
     pnt = kml.newpoint(name=row[csv_address_column])
     pnt.address = row[csv_address_column]
-    pnt.description = " area: " + row[csv_sqm_column] + "sqm"
-    url_address=row[csv_address_column]
+    pnt.description = "cena/m2 " + row[csv_cost_per_sqm_column] + " area: " + row[csv_sqm_column]
+    url_address="Warszawa, "+row[csv_address_column]
+    print(url_address)
     url_address=url_address.replace(" ", "+")
+    print(url_address)
     print(row[csv_address_column])
     response=urllib2.urlopen(url_prefix+url_address+url_postfix).read()
     data = json.loads(response)
@@ -42,7 +44,7 @@ for row in inputfile:
     lng=data['results'][0]['geometry']['location']['lng']
     print(lat)
     print(lng)
-    pnt.coords=[(lat,lng)]
+    pnt.coords=[(lng,lat)]
     pnt.address=row[csv_address_column]
 
 kml.save('data.kml')
