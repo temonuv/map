@@ -4,57 +4,2217 @@
         <Placemark id="feat_2">
             <name>Popiełuszki Jerzego 17B/11</name>
             <address>Popiełuszki Jerzego 17B/11</address>
-            <description>cena/m2 6,444.44 zł  area: 18.00</description>
+            <description>cena/m2 6444 area: 18</description>
             <Point id="geom_0">
                 <coordinates>20.9736372,52.2690091,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_3">
-            <name>Barkocińska 15/8</name>
-            <address>Barkocińska 15/8</address>
-            <description>cena/m2 6,522.88 zł  area: 19.01</description>
+            <name>Grójecka 56/58/4A </name>
+            <address>Grójecka 56/58/4A </address>
+            <description>cena/m2 6247 area: 16.8</description>
             <Point id="geom_1">
-                <coordinates>21.056487,52.2684349,0.0</coordinates>
+                <coordinates>20.9804527,52.2161365,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_4">
-            <name>Długosza Jana 22/8</name>
-            <address>Długosza Jana 22/8</address>
-            <description>cena/m2 5,819.26 zł  area: 21.91</description>
+            <name>Barkocińska 15/8</name>
+            <address>Barkocińska 15/8</address>
+            <description>cena/m2 6523 area: 19</description>
             <Point id="geom_2">
-                <coordinates>20.9663941,52.240157,0.0</coordinates>
+                <coordinates>21.056487,52.2684349,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_5">
-            <name>Bolivara Simona 2/32</name>
-            <address>Bolivara Simona 2/32</address>
-            <description>cena/m2 5,833.33 zł  area: 27.00</description>
+            <name>Długosza Jana 22/8</name>
+            <address>Długosza Jana 22/8</address>
+            <description>cena/m2 5819 area: 21.9</description>
             <Point id="geom_3">
-                <coordinates>21.0426555,52.2893058,0.0</coordinates>
+                <coordinates>20.9663941,52.240157,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_6">
-            <name>Brechta Bertolta 13/3</name>
-            <address>Brechta Bertolta 13/3</address>
-            <description>cena/m2 6,140.02 zł  area: 26.71</description>
+            <name>Sosnkowskiego 14/9</name>
+            <address>Sosnkowskiego 14/9</address>
+            <description>cena/m2 6163 area: 25.2</description>
             <Point id="geom_4">
-                <coordinates>21.0328469,52.2605475,0.0</coordinates>
+                <coordinates>20.8894254,52.1902588,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_7">
-            <name>Skarbka z Gór 134b/7</name>
-            <address>Skarbka z Gór 134b/7</address>
-            <description>cena/m2 5,162.24 zł  area: 33.90</description>
+            <name>Brechta Bertolta 13/3</name>
+            <address>Brechta Bertolta 13/3</address>
+            <description>cena/m2 6140 area: 26.7</description>
             <Point id="geom_5">
-                <coordinates>21.059828,52.3221549,0.0</coordinates>
+                <coordinates>21.0328469,52.2605475,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="feat_8">
+            <name>Bolivara Simona 2/32</name>
+            <address>Bolivara Simona 2/32</address>
+            <description>cena/m2 5833 area: 27</description>
+            <Point id="geom_6">
+                <coordinates>21.0426555,52.2893058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>Grzybowska 30/1024</name>
+            <address>Grzybowska 30/1024</address>
+            <description>cena/m2 6874 area: 27.1</description>
+            <Point id="geom_7">
+                <coordinates>20.9955951,52.2363653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>Warszawska 55/22</name>
+            <address>Warszawska 55/22</address>
+            <description>cena/m2 5944 area: 27.9</description>
+            <Point id="geom_8">
+                <coordinates>20.86325,52.1942359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>Międzynarodowa 58/60A </name>
+            <address>Międzynarodowa 58/60A </address>
+            <description>cena/m2 6616 area: 28</description>
+            <Point id="geom_9">
+                <coordinates>21.0654049,52.2377769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>Cyraneczki 1/9 </name>
+            <address>Cyraneczki 1/9 </address>
+            <description>cena/m2 7752 area: 28.3</description>
+            <Point id="geom_10">
+                <coordinates>21.0785589,52.2413029,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>Włodarzewska 81/4</name>
+            <address>Włodarzewska 81/4</address>
+            <description>cena/m2 8396 area: 28.3</description>
+            <Point id="geom_11">
+                <coordinates>20.9494954,52.2022907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>Kartograficzna 58b/8</name>
+            <address>Kartograficzna 58b/8</address>
+            <description>cena/m2 5730 area: 28.7</description>
+            <Point id="geom_12">
+                <coordinates>21.074309,52.311198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>Etiudy Rewolucyjnej 9/1</name>
+            <address>Etiudy Rewolucyjnej 9/1</address>
+            <description>cena/m2 6840 area: 29.3</description>
+            <Point id="geom_13">
+                <coordinates>20.9896155,52.1910875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>Globusowa 7/4</name>
+            <address>Globusowa 7/4</address>
+            <description>cena/m2 5563 area: 29.9</description>
+            <Point id="geom_14">
+                <coordinates>20.914794,52.207659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>Rembielińskiej 4/167 </name>
+            <address>Rembielińskiej 4/167 </address>
+            <description>cena/m2 5010 area: 30</description>
+            <Point id="geom_15">
+                <coordinates>21.03389,52.2851829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>Solidarnosci 84/52</name>
+            <address>Solidarnosci 84/52</address>
+            <description>cena/m2 7532 area: 30.1</description>
+            <Point id="geom_16">
+                <coordinates>20.991321,52.241552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>Puławska 240/23 </name>
+            <address>Puławska 240/23 </address>
+            <description>cena/m2 5806 area: 31</description>
+            <Point id="geom_17">
+                <coordinates>21.0196009,52.174237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>Powstańców śląskich 104/227</name>
+            <address>Powstańców śląskich 104/227</address>
+            <description>cena/m2 7029 area: 31.2</description>
+            <Point id="geom_18">
+                <coordinates>20.9187666,52.2542782,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>Herbsta 4/507</name>
+            <address>Herbsta 4/507</address>
+            <description>cena/m2 6933 area: 31.3</description>
+            <Point id="geom_19">
+                <coordinates>21.0317472,52.1548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>Konopacka 21/28</name>
+            <address>Konopacka 21/28</address>
+            <description>cena/m2 5122 area: 31.4</description>
+            <Point id="geom_20">
+                <coordinates>21.037812,52.260143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>Wańkowicza 2/108</name>
+            <address>Wańkowicza 2/108</address>
+            <description>cena/m2 8457 area: 32.4</description>
+            <Point id="geom_21">
+                <coordinates>21.0667238,52.1329283,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>Skarbka z Gór 134b/7</name>
+            <address>Skarbka z Gór 134b/7</address>
+            <description>cena/m2 5162 area: 33.9</description>
+            <Point id="geom_22">
+                <coordinates>21.059828,52.3221549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>Wrońskiego 15/6</name>
+            <address>Wrońskiego 15/6</address>
+            <description>cena/m2 8210 area: 34.4</description>
+            <Point id="geom_23">
+                <coordinates>21.0328256,52.2255085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>Aleja Niepodległości 137/141/39 </name>
+            <address>Aleja Niepodległości 137/141/39 </address>
+            <description>cena/m2 7200 area: 34.7</description>
+            <Point id="geom_24">
+                <coordinates>21.0099276,52.2025708,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>Jana Kasprowicza 56/91</name>
+            <address>Jana Kasprowicza 56/91</address>
+            <description>cena/m2 7196 area: 35</description>
+            <Point id="geom_25">
+                <coordinates>20.9470649,52.2832515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>Skarbka Z Gór 51A/34</name>
+            <address>Skarbka Z Gór 51A/34</address>
+            <description>cena/m2 5453 area: 35.3</description>
+            <Point id="geom_26">
+                <coordinates>21.0562599,52.3206009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>Wołoska 82A/4 </name>
+            <address>Wołoska 82A/4 </address>
+            <description>cena/m2 7352 area: 35.5</description>
+            <Point id="geom_27">
+                <coordinates>21.002374,52.200105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>Krasińskiego 37/53</name>
+            <address>Krasińskiego 37/53</address>
+            <description>cena/m2 7963 area: 35.5</description>
+            <Point id="geom_28">
+                <coordinates>20.9729412,52.2646751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>Żeglugi Wiślanej 11/29</name>
+            <address>Żeglugi Wiślanej 11/29</address>
+            <description>cena/m2 5677 area: 35.9</description>
+            <Point id="geom_29">
+                <coordinates>21.0352856,52.3603118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>Konduktorska 1A/75 </name>
+            <address>Konduktorska 1A/75 </address>
+            <description>cena/m2 7382 area: 35.9</description>
+            <Point id="geom_30">
+                <coordinates>21.0314659,52.1991919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>Szaserów 121/105</name>
+            <address>Szaserów 121/105</address>
+            <description>cena/m2 6282 area: 36</description>
+            <Point id="geom_31">
+                <coordinates>21.0933259,52.2488369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>Szwankowskiego 8/69</name>
+            <address>Szwankowskiego 8/69</address>
+            <description>cena/m2 6323 area: 36.5</description>
+            <Point id="geom_32">
+                <coordinates>20.8991119,52.2343721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>Mehoffera 44/4</name>
+            <address>Mehoffera 44/4</address>
+            <description>cena/m2 5981 area: 36.5</description>
+            <Point id="geom_33">
+                <coordinates>20.9509469,52.326454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>Redutowa 50/20 </name>
+            <address>Redutowa 50/20 </address>
+            <description>cena/m2 6471 area: 36.9</description>
+            <Point id="geom_34">
+                <coordinates>20.94124,52.234941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>Wiosenna 2/170</name>
+            <address>Wiosenna 2/170</address>
+            <description>cena/m2 5421 area: 37</description>
+            <Point id="geom_35">
+                <coordinates>21.0490137,52.256636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>Przy Agorze 3/153</name>
+            <address>Przy Agorze 3/153</address>
+            <description>cena/m2 5730 area: 37</description>
+            <Point id="geom_36">
+                <coordinates>20.94359,52.294014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>Wiosenna 2/249</name>
+            <address>Wiosenna 2/249</address>
+            <description>cena/m2 5976 area: 37</description>
+            <Point id="geom_37">
+                <coordinates>21.0490137,52.256636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>Redutowa 50/130</name>
+            <address>Redutowa 50/130</address>
+            <description>cena/m2 6063 area: 37.1</description>
+            <Point id="geom_38">
+                <coordinates>20.94124,52.234941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>Środkowa 30/22A </name>
+            <address>Środkowa 30/22A </address>
+            <description>cena/m2 5374 area: 37.5</description>
+            <Point id="geom_39">
+                <coordinates>21.0385919,52.2626289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>Górczewska 18/44</name>
+            <address>Górczewska 18/44</address>
+            <description>cena/m2 6959 area: 37.5</description>
+            <Point id="geom_40">
+                <coordinates>20.9644449,52.2376239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>Toruńska 52/18</name>
+            <address>Toruńska 52/18</address>
+            <description>cena/m2 5427 area: 37.5</description>
+            <Point id="geom_41">
+                <coordinates>21.0179519,52.2944059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>Międzyborska 43 A/48 </name>
+            <address>Międzyborska 43 A/48 </address>
+            <description>cena/m2 6216 area: 37.5</description>
+            <Point id="geom_42">
+                <coordinates>21.0818367,52.2364006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>Międzynarodowa 64/66A/229</name>
+            <address>Międzynarodowa 64/66A/229</address>
+            <description>cena/m2 6240 area: 37.5</description>
+            <Point id="geom_43">
+                <coordinates>21.0646749,52.238945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>Kondratowicza 13/127</name>
+            <address>Kondratowicza 13/127</address>
+            <description>cena/m2 6403 area: 37.5</description>
+            <Point id="geom_44">
+                <coordinates>21.0286414,52.2944523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>Górnośląska 2/7 </name>
+            <address>Górnośląska 2/7 </address>
+            <description>cena/m2 8775 area: 37.5</description>
+            <Point id="geom_45">
+                <coordinates>21.039685,52.225859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>Młynarska 30A/59 </name>
+            <address>Młynarska 30A/59 </address>
+            <description>cena/m2 7080 area: 37.7</description>
+            <Point id="geom_46">
+                <coordinates>20.972863,52.2382829,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>Batorego 31/103</name>
+            <address>Batorego 31/103</address>
+            <description>cena/m2 8061 area: 37.9</description>
+            <Point id="geom_47">
+                <coordinates>21.0109064,52.2108645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>Rembielińskiej 6/9</name>
+            <address>Rembielińskiej 6/9</address>
+            <description>cena/m2 4903 area: 38</description>
+            <Point id="geom_48">
+                <coordinates>21.033402,52.2859229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>Angorska 8/9 </name>
+            <address>Angorska 8/9 </address>
+            <description>cena/m2 8261 area: 38.3</description>
+            <Point id="geom_49">
+                <coordinates>21.0610827,52.2384519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>Przylesie 21/211</name>
+            <address>Przylesie 21/211</address>
+            <description>cena/m2 5433 area: 39</description>
+            <Point id="geom_50">
+                <coordinates>20.956384,52.3468729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>Przylesie 21/312 </name>
+            <address>Przylesie 21/312 </address>
+            <description>cena/m2 4783 area: 39.1</description>
+            <Point id="geom_51">
+                <coordinates>20.956384,52.3468729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>Modlińska 65G/3</name>
+            <address>Modlińska 65G/3</address>
+            <description>cena/m2 5448 area: 39.1</description>
+            <Point id="geom_52">
+                <coordinates>20.9809099,52.3089609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>Modlińska 65G/4</name>
+            <address>Modlińska 65G/4</address>
+            <description>cena/m2 5448 area: 39.1</description>
+            <Point id="geom_53">
+                <coordinates>21.0059594,52.2927219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>Grochowska 174/176/3</name>
+            <address>Grochowska 174/176/3</address>
+            <description>cena/m2 6124 area: 39.2</description>
+            <Point id="geom_54">
+                <coordinates>21.091693,52.244951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>Al.Niepodległości 24/30/20 </name>
+            <address>Al.Niepodległości 24/30/20 </address>
+            <description>cena/m2 6817 area: 39.3</description>
+            <Point id="geom_55">
+                <coordinates>21.0191727,52.1864479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>Książkowa 7a/316 </name>
+            <address>Książkowa 7a/316 </address>
+            <description>cena/m2 5950 area: 40</description>
+            <Point id="geom_56">
+                <coordinates>20.938558,52.3303579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>Mirowski 10/11</name>
+            <address>Mirowski 10/11</address>
+            <description>cena/m2 7916 area: 40.3</description>
+            <Point id="geom_57">
+                <coordinates>20.997024,52.239286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>Nieporęcka 12/7</name>
+            <address>Nieporęcka 12/7</address>
+            <description>cena/m2 6383 area: 40.4</description>
+            <Point id="geom_58">
+                <coordinates>21.046803,52.256304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
             <name>Wysockiego 2/111</name>
             <address>Wysockiego 2/111</address>
-            <description>cena/m2 4,509.80 zł  area: 40.80</description>
-            <Point id="geom_6">
+            <description>cena/m2 4510 area: 40.8</description>
+            <Point id="geom_59">
                 <coordinates>21.0260413,52.2818806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>Al. Niepodległości 76/78/65</name>
+            <address>Al. Niepodległości 76/78/65</address>
+            <description>cena/m2 7871 area: 41.3</description>
+            <Point id="geom_60">
+                <coordinates>21.0143611,52.1957728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>Kochanowskiego 12a/1 </name>
+            <address>Kochanowskiego 12a/1 </address>
+            <description>cena/m2 5807 area: 41.5</description>
+            <Point id="geom_61">
+                <coordinates>20.950841,52.2677964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>Kaukaska 8/42</name>
+            <address>Kaukaska 8/42</address>
+            <description>cena/m2 5640 area: 42.2</description>
+            <Point id="geom_62">
+                <coordinates>21.0501039,52.1814959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>Batumi 4/18</name>
+            <address>Batumi 4/18</address>
+            <description>cena/m2 6226 area: 42.4</description>
+            <Point id="geom_63">
+                <coordinates>21.051958,52.181694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>Magellana 2/41</name>
+            <address>Magellana 2/41</address>
+            <description>cena/m2 6465 area: 42.4</description>
+            <Point id="geom_64">
+                <coordinates>21.0470944,52.1536893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>Domaniewska 17/19/120</name>
+            <address>Domaniewska 17/19/120</address>
+            <description>cena/m2 7092 area: 42.4</description>
+            <Point id="geom_65">
+                <coordinates>21.0159254,52.183027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>Solidarnosci 84/53</name>
+            <address>Solidarnosci 84/53</address>
+            <description>cena/m2 6947 area: 43.3</description>
+            <Point id="geom_66">
+                <coordinates>20.991321,52.241552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>Laskowa 3/3</name>
+            <address>Laskowa 3/3</address>
+            <description>cena/m2 6510 area: 43.5</description>
+            <Point id="geom_67">
+                <coordinates>20.974888,52.228082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>Króla Maciusia 11 A/154 </name>
+            <address>Króla Maciusia 11 A/154 </address>
+            <description>cena/m2 5340 area: 43.8</description>
+            <Point id="geom_68">
+                <coordinates>21.1454409,52.23937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>Sękocińska 20/49 </name>
+            <address>Sękocińska 20/49 </address>
+            <description>cena/m2 3254 area: 44.1</description>
+            <Point id="geom_69">
+                <coordinates>20.9765328,52.2207098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>Pasłęcka 10C </name>
+            <address>Pasłęcka 10C </address>
+            <description>cena/m2 5772 area: 44.2</description>
+            <Point id="geom_70">
+                <coordinates>20.9488479,52.333014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>Potocka 33 A/21</name>
+            <address>Potocka 33 A/21</address>
+            <description>cena/m2 7383 area: 44.7</description>
+            <Point id="geom_71">
+                <coordinates>20.97802,52.273109,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>Al. Jerzego Waszyngtona 106/9</name>
+            <address>Al. Jerzego Waszyngtona 106/9</address>
+            <description>cena/m2 6740 area: 44.7</description>
+            <Point id="geom_72">
+                <coordinates>21.0766861,52.2429242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>Kasprowicza 82/12</name>
+            <address>Kasprowicza 82/12</address>
+            <description>cena/m2 6414 area: 45.4</description>
+            <Point id="geom_73">
+                <coordinates>20.9350471,52.2889357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>Szanajcy 16a/13</name>
+            <address>Szanajcy 16a/13</address>
+            <description>cena/m2 5901 area: 45.5</description>
+            <Point id="geom_74">
+                <coordinates>21.0304379,52.2629641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>Bandrowskiego 9/74</name>
+            <address>Bandrowskiego 9/74</address>
+            <description>cena/m2 5636 area: 45.6</description>
+            <Point id="geom_75">
+                <coordinates>20.9247116,52.2506181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>Bandrowskiego 10/43</name>
+            <address>Bandrowskiego 10/43</address>
+            <description>cena/m2 6020 area: 45.7</description>
+            <Point id="geom_76">
+                <coordinates>20.9260529,52.2509587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>Wałbrzyska 15/408</name>
+            <address>Wałbrzyska 15/408</address>
+            <description>cena/m2 6746 area: 46.1</description>
+            <Point id="geom_77">
+                <coordinates>21.0239053,52.1729316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>Bohaterów Warszawy 8/94 </name>
+            <address>Bohaterów Warszawy 8/94 </address>
+            <description>cena/m2 6207 area: 46.2</description>
+            <Point id="geom_78">
+                <coordinates>20.8922202,52.1934558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>Sobieskiego 99/77</name>
+            <address>Sobieskiego 99/77</address>
+            <description>cena/m2 6903 area: 46.2</description>
+            <Point id="geom_79">
+                <coordinates>21.0382273,52.1979299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>Dzieci Warszawy 11/U4</name>
+            <address>Dzieci Warszawy 11/U4</address>
+            <description>cena/m2 6880 area: 46.4</description>
+            <Point id="geom_80">
+                <coordinates>20.9122889,52.190678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>Zwycięzców 4C/52</name>
+            <address>Zwycięzców 4C/52</address>
+            <description>cena/m2 6760 area: 46.5</description>
+            <Point id="geom_81">
+                <coordinates>21.052129,52.2292889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>Żytnia 66/42 </name>
+            <address>Żytnia 66/42 </address>
+            <description>cena/m2 5768 area: 46.7</description>
+            <Point id="geom_82">
+                <coordinates>20.9623679,52.2392569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>Mozarta 3/220</name>
+            <address>Mozarta 3/220</address>
+            <description>cena/m2 7366 area: 46.7</description>
+            <Point id="geom_83">
+                <coordinates>21.0306281,52.1727089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>W. A. Mozarta 3/220</name>
+            <address>W. A. Mozarta 3/220</address>
+            <description>cena/m2 7366 area: 46.7</description>
+            <Point id="geom_84">
+                <coordinates>21.0306281,52.1727089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>Podskarbińska 8/7</name>
+            <address>Podskarbińska 8/7</address>
+            <description>cena/m2 5856 area: 46.8</description>
+            <Point id="geom_85">
+                <coordinates>21.074789,52.248736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>Arabska 10/43</name>
+            <address>Arabska 10/43</address>
+            <description>cena/m2 6317 area: 46.8</description>
+            <Point id="geom_86">
+                <coordinates>21.0679479,52.223262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>Modlińska 65D/15</name>
+            <address>Modlińska 65D/15</address>
+            <description>cena/m2 4947 area: 46.9</description>
+            <Point id="geom_87">
+                <coordinates>20.9956111,52.2947679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>Łojewska 9/107</name>
+            <address>Łojewska 9/107</address>
+            <description>cena/m2 5170 area: 47</description>
+            <Point id="geom_88">
+                <coordinates>21.041068,52.296498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>Suwalska 40/22</name>
+            <address>Suwalska 40/22</address>
+            <description>cena/m2 5306 area: 47</description>
+            <Point id="geom_89">
+                <coordinates>21.041491,52.2936939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>Wiosenna 3/133 </name>
+            <address>Wiosenna 3/133 </address>
+            <description>cena/m2 6194 area: 47</description>
+            <Point id="geom_90">
+                <coordinates>21.0491329,52.2572179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>Woronicza Jana Pawła 44/67</name>
+            <address>Woronicza Jana Pawła 44/67</address>
+            <description>cena/m2 7277 area: 47</description>
+            <Point id="geom_91">
+                <coordinates>21.0070837,52.1891791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>Marii Kazimiery 3/5</name>
+            <address>Marii Kazimiery 3/5</address>
+            <description>cena/m2 9222 area: 47.3</description>
+            <Point id="geom_92">
+                <coordinates>20.9792719,52.2744006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>Remiszewska 20 </name>
+            <address>Remiszewska 20 </address>
+            <description>cena/m2 4905 area: 47.5</description>
+            <Point id="geom_93">
+                <coordinates>21.0555989,52.271529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>Jana Pawła II 65/16 </name>
+            <address>Jana Pawła II 65/16 </address>
+            <description>cena/m2 6034 area: 47.7</description>
+            <Point id="geom_94">
+                <coordinates>21.2232226,52.218438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>Międzyborska 43 A/29</name>
+            <address>Międzyborska 43 A/29</address>
+            <description>cena/m2 4667 area: 48</description>
+            <Point id="geom_95">
+                <coordinates>21.0818367,52.2364006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>Zagłoby 5/98</name>
+            <address>Zagłoby 5/98</address>
+            <description>cena/m2 5042 area: 48</description>
+            <Point id="geom_96">
+                <coordinates>20.871724,52.1940589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>Pereca 13/19/1106</name>
+            <address>Pereca 13/19/1106</address>
+            <description>cena/m2 7177 area: 48</description>
+            <Point id="geom_97">
+                <coordinates>20.9941043,52.2332009,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>Żelazna 82/84/23</name>
+            <address>Żelazna 82/84/23</address>
+            <description>cena/m2 6443 area: 48.6</description>
+            <Point id="geom_98">
+                <coordinates>20.9878739,52.2393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>Sobieskiego 12/21 </name>
+            <address>Sobieskiego 12/21 </address>
+            <description>cena/m2 5984 area: 48.8</description>
+            <Point id="geom_99">
+                <coordinates>21.0658742,52.1733458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>Dąbka 3/24 </name>
+            <address>Dąbka 3/24 </address>
+            <description>cena/m2 5550 area: 48.8</description>
+            <Point id="geom_100">
+                <coordinates>20.8894714,52.192488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>Rozłucka 9/12 </name>
+            <address>Rozłucka 9/12 </address>
+            <description>cena/m2 6308 area: 48.9</description>
+            <Point id="geom_101">
+                <coordinates>21.0771169,52.23849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>11 Listopada 8 /14</name>
+            <address>11 Listopada 8 /14</address>
+            <description>cena/m2 5224 area: 49</description>
+            <Point id="geom_102">
+                <coordinates>21.0341088,52.2572271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>Turmoncka 17/110</name>
+            <address>Turmoncka 17/110</address>
+            <description>cena/m2 5223 area: 49.4</description>
+            <Point id="geom_103">
+                <coordinates>21.039096,52.2989089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>Waryńskiego Ludwika 28/70</name>
+            <address>Waryńskiego Ludwika 28/70</address>
+            <description>cena/m2 9106 area: 49.4</description>
+            <Point id="geom_104">
+                <coordinates>21.0160195,52.2206268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>Odkryta 67H/1</name>
+            <address>Odkryta 67H/1</address>
+            <description>cena/m2 5393 area: 49.5</description>
+            <Point id="geom_105">
+                <coordinates>20.9357189,52.3391212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>Niekłańska 46/52</name>
+            <address>Niekłańska 46/52</address>
+            <description>cena/m2 7203 area: 49.7</description>
+            <Point id="geom_106">
+                <coordinates>21.059803,52.238859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>Grochowska 99/8</name>
+            <address>Grochowska 99/8</address>
+            <description>cena/m2 5804 area: 50</description>
+            <Point id="geom_107">
+                <coordinates>21.1071203,52.2411146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>Darwina 12</name>
+            <address>Darwina 12</address>
+            <description>cena/m2 6222 area: 50</description>
+            <Point id="geom_108">
+                <coordinates>21.0274025,52.2642892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>Marywilska 50/7</name>
+            <address>Marywilska 50/7</address>
+            <description>cena/m2 4511 area: 50.1</description>
+            <Point id="geom_109">
+                <coordinates>21.000089,52.317724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>Kossutha 4/85 </name>
+            <address>Kossutha 4/85 </address>
+            <description>cena/m2 5968 area: 50.1</description>
+            <Point id="geom_110">
+                <coordinates>20.9085353,52.237693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>Sołtana 6/46</name>
+            <address>Sołtana 6/46</address>
+            <description>cena/m2 6128 area: 50.1</description>
+            <Point id="geom_111">
+                <coordinates>20.9252207,52.2545177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>Linneusza 11/26</name>
+            <address>Linneusza 11/26</address>
+            <description>cena/m2 6061 area: 50.5</description>
+            <Point id="geom_112">
+                <coordinates>21.0307627,52.2648728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>Odkryta 1/41</name>
+            <address>Odkryta 1/41</address>
+            <description>cena/m2 5610 area: 50.5</description>
+            <Point id="geom_113">
+                <coordinates>20.937976,52.3235649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>Skarbka z Gór 7/15</name>
+            <address>Skarbka z Gór 7/15</address>
+            <description>cena/m2 5980 area: 50.5</description>
+            <Point id="geom_114">
+                <coordinates>21.063205,52.3151159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>Radzymińska 52/18</name>
+            <address>Radzymińska 52/18</address>
+            <description>cena/m2 5411 area: 50.6</description>
+            <Point id="geom_115">
+                <coordinates>21.053503,52.2599019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>Jałtańska 5/53</name>
+            <address>Jałtańska 5/53</address>
+            <description>cena/m2 5905 area: 50.6</description>
+            <Point id="geom_116">
+                <coordinates>21.053818,52.181897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>Rozłogi 2/9</name>
+            <address>Rozłogi 2/9</address>
+            <description>cena/m2 5266 area: 50.7</description>
+            <Point id="geom_117">
+                <coordinates>20.901547,52.221689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>Czechowa Antoniego 2/181</name>
+            <address>Czechowa Antoniego 2/181</address>
+            <description>cena/m2 5819 area: 50.7</description>
+            <Point id="geom_118">
+                <coordinates>20.929528,52.281929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>Cieszyńska 1A/84 </name>
+            <address>Cieszyńska 1A/84 </address>
+            <description>cena/m2 8061 area: 50.9</description>
+            <Point id="geom_119">
+                <coordinates>21.0274179,52.18206,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>Ordona 7/12</name>
+            <address>Ordona 7/12</address>
+            <description>cena/m2 5970 area: 50.9</description>
+            <Point id="geom_120">
+                <coordinates>20.952481,52.226546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>Wańkowicza 5B/104 </name>
+            <address>Wańkowicza 5B/104 </address>
+            <description>cena/m2 8966 area: 51.5</description>
+            <Point id="geom_121">
+                <coordinates>21.0650553,52.134046,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>Pisarka 2/4</name>
+            <address>Pisarka 2/4</address>
+            <description>cena/m2 6165 area: 51.6</description>
+            <Point id="geom_122">
+                <coordinates>21.1085184,52.2283196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>Raabego Henryka 7/14 </name>
+            <address>Raabego Henryka 7/14 </address>
+            <description>cena/m2 6931 area: 51.7</description>
+            <Point id="geom_123">
+                <coordinates>21.060117,52.1389603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>Bogusławskiego Wojciecha 19/132</name>
+            <address>Bogusławskiego Wojciecha 19/132</address>
+            <description>cena/m2 7368 area: 51.7</description>
+            <Point id="geom_124">
+                <coordinates>20.9194082,52.2802935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>Dobiszewskiego 2/8 </name>
+            <address>Dobiszewskiego 2/8 </address>
+            <description>cena/m2 5712 area: 51.8</description>
+            <Point id="geom_125">
+                <coordinates>20.9560461,52.2459027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>Łyżwiarska 1/38</name>
+            <address>Łyżwiarska 1/38</address>
+            <description>cena/m2 8852 area: 52</description>
+            <Point id="geom_126">
+                <coordinates>21.0076671,52.2020906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>Koński Jar 4/6 </name>
+            <address>Koński Jar 4/6 </address>
+            <description>cena/m2 6233 area: 52.3</description>
+            <Point id="geom_127">
+                <coordinates>21.025842,52.1633949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>Bogusławskiego Wojciecha 4/19 </name>
+            <address>Bogusławskiego Wojciecha 4/19 </address>
+            <description>cena/m2 2753 area: 52.5</description>
+            <Point id="geom_128">
+                <coordinates>20.9162449,52.2758949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>Żeglugi Wiślanej 10/46 </name>
+            <address>Żeglugi Wiślanej 10/46 </address>
+            <description>cena/m2 5083 area: 52.5</description>
+            <Point id="geom_129">
+                <coordinates>21.0366644,52.3610123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>Szczuki Mieczysława 2/44</name>
+            <address>Szczuki Mieczysława 2/44</address>
+            <description>cena/m2 6238 area: 52.9</description>
+            <Point id="geom_130">
+                <coordinates>21.0470632,52.1459657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>Gajkowicza 3/31</name>
+            <address>Gajkowicza 3/31</address>
+            <description>cena/m2 4725 area: 53.1</description>
+            <Point id="geom_131">
+                <coordinates>21.0616607,52.2727626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>Wysockiego 20/183</name>
+            <address>Wysockiego 20/183</address>
+            <description>cena/m2 5222 area: 53.2</description>
+            <Point id="geom_132">
+                <coordinates>21.0198859,52.2906307,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>Sarmacka 20A/89</name>
+            <address>Sarmacka 20A/89</address>
+            <description>cena/m2 6935 area: 53.4</description>
+            <Point id="geom_133">
+                <coordinates>21.0776765,52.1594598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>Sarmacka 20A/104</name>
+            <address>Sarmacka 20A/104</address>
+            <description>cena/m2 6942 area: 53.4</description>
+            <Point id="geom_134">
+                <coordinates>21.0776765,52.1594598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>Bałuckiego 34/3 </name>
+            <address>Bałuckiego 34/3 </address>
+            <description>cena/m2 7687 area: 53.7</description>
+            <Point id="geom_135">
+                <coordinates>21.0201793,52.2029516,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>Janinówka 9/177</name>
+            <address>Janinówka 9/177</address>
+            <description>cena/m2 5426 area: 53.8</description>
+            <Point id="geom_136">
+                <coordinates>21.0606482,52.2716775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>Skarbka z Gór 132a/2</name>
+            <address>Skarbka z Gór 132a/2</address>
+            <description>cena/m2 5465 area: 54.2</description>
+            <Point id="geom_137">
+                <coordinates>21.0582049,52.3209309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>Śniardwy 1/45</name>
+            <address>Śniardwy 1/45</address>
+            <description>cena/m2 6153 area: 54.3</description>
+            <Point id="geom_138">
+                <coordinates>21.005482,52.1731659,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>Borowej Góry 3/26</name>
+            <address>Borowej Góry 3/26</address>
+            <description>cena/m2 6314 area: 54.5</description>
+            <Point id="geom_139">
+                <coordinates>20.915191,52.2240679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>Bukowińska 22/189</name>
+            <address>Bukowińska 22/189</address>
+            <description>cena/m2 6414 area: 54.6</description>
+            <Point id="geom_140">
+                <coordinates>21.0268382,52.1811317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>Nieporęcka 12/8</name>
+            <address>Nieporęcka 12/8</address>
+            <description>cena/m2 6200 area: 55</description>
+            <Point id="geom_141">
+                <coordinates>21.046803,52.256304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>Włodarzewska 57H</name>
+            <address>Włodarzewska 57H</address>
+            <description>cena/m2 6846 area: 55.2</description>
+            <Point id="geom_142">
+                <coordinates>20.9568289,52.2006053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>Mokra 31/42 </name>
+            <address>Mokra 31/42 </address>
+            <description>cena/m2 5108 area: 55.4</description>
+            <Point id="geom_143">
+                <coordinates>21.05763,52.273083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>Dmochowskiego 6/6 </name>
+            <address>Dmochowskiego 6/6 </address>
+            <description>cena/m2 8891 area: 55.4</description>
+            <Point id="geom_144">
+                <coordinates>21.0347803,52.2257176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>Grochowska 337 A/19</name>
+            <address>Grochowska 337 A/19</address>
+            <description>cena/m2 6766 area: 55.7</description>
+            <Point id="geom_145">
+                <coordinates>21.060803,52.2457769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>Okaryny 1a/22 </name>
+            <address>Okaryny 1a/22 </address>
+            <description>cena/m2 5907 area: 55.7</description>
+            <Point id="geom_146">
+                <coordinates>21.033988,52.1632399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>Horbaczewskiego Eugeniusza 3</name>
+            <address>Horbaczewskiego Eugeniusza 3</address>
+            <description>cena/m2 5176 area: 56.2</description>
+            <Point id="geom_147">
+                <coordinates>21.0957963,52.2235751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>Korsykańska 5/92</name>
+            <address>Korsykańska 5/92</address>
+            <description>cena/m2 6085 area: 56.2</description>
+            <Point id="geom_148">
+                <coordinates>21.048036,52.17668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>Sieczna 67A/4</name>
+            <address>Sieczna 67A/4</address>
+            <description>cena/m2 5466 area: 56.9</description>
+            <Point id="geom_149">
+                <coordinates>21.0761289,52.317712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>Skarbka Z Gór 67a/43 </name>
+            <address>Skarbka Z Gór 67a/43 </address>
+            <description>cena/m2 6104 area: 57</description>
+            <Point id="geom_150">
+                <coordinates>21.0553709,52.322798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>Makolągwy 12/6</name>
+            <address>Makolągwy 12/6</address>
+            <description>cena/m2 8019 area: 57.2</description>
+            <Point id="geom_151">
+                <coordinates>21.025264,52.145179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>Świetlana 20/4 </name>
+            <address>Świetlana 20/4 </address>
+            <description>cena/m2 5567 area: 57.5</description>
+            <Point id="geom_152">
+                <coordinates>20.90326,52.2111019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>Śniegockiej 5/5</name>
+            <address>Śniegockiej 5/5</address>
+            <description>cena/m2 7589 area: 57.5</description>
+            <Point id="geom_153">
+                <coordinates>21.0372486,52.2269033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>Opinogórska 4/90</name>
+            <address>Opinogórska 4/90</address>
+            <description>cena/m2 5172 area: 58</description>
+            <Point id="geom_154">
+                <coordinates>21.080402,52.2329159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>Ogińskiego 13/25</name>
+            <address>Ogińskiego 13/25</address>
+            <description>cena/m2 5235 area: 58.1</description>
+            <Point id="geom_155">
+                <coordinates>21.0237524,52.2913742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>Narwik 10/50</name>
+            <address>Narwik 10/50</address>
+            <description>cena/m2 6745 area: 58.2</description>
+            <Point id="geom_156">
+                <coordinates>20.898034,52.242191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>Sarmacka 19/44</name>
+            <address>Sarmacka 19/44</address>
+            <description>cena/m2 9019 area: 58.3</description>
+            <Point id="geom_157">
+                <coordinates>21.081899,52.1572139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>Smolna 38/5C</name>
+            <address>Smolna 38/5C</address>
+            <description>cena/m2 11572 area: 58.5</description>
+            <Point id="geom_158">
+                <coordinates>21.0216563,52.2326515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>Nowolipie 21/1 </name>
+            <address>Nowolipie 21/1 </address>
+            <description>cena/m2 6727 area: 58.9</description>
+            <Point id="geom_159">
+                <coordinates>20.991964,52.2425939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>Lokajskiego 18/34</name>
+            <address>Lokajskiego 18/34</address>
+            <description>cena/m2 6229 area: 59.4</description>
+            <Point id="geom_160">
+                <coordinates>21.0664022,52.1404557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>Zamiany 5/49</name>
+            <address>Zamiany 5/49</address>
+            <description>cena/m2 6758 area: 59.4</description>
+            <Point id="geom_161">
+                <coordinates>21.035224,52.15792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>Klaudyny 30/4</name>
+            <address>Klaudyny 30/4</address>
+            <description>cena/m2 5784 area: 59.6</description>
+            <Point id="geom_162">
+                <coordinates>20.975564,52.2835169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>Obrońców Tobruku 25/17</name>
+            <address>Obrońców Tobruku 25/17</address>
+            <description>cena/m2 7864 area: 60.3</description>
+            <Point id="geom_163">
+                <coordinates>20.9325492,52.2561208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>Siennicka 19/31 </name>
+            <address>Siennicka 19/31 </address>
+            <description>cena/m2 6361 area: 60.9</description>
+            <Point id="geom_164">
+                <coordinates>21.0772305,52.248215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>Franciszka Kawy 46/U1</name>
+            <address>Franciszka Kawy 46/U1</address>
+            <description>cena/m2 5378 area: 61.2</description>
+            <Point id="geom_165">
+                <coordinates>20.9218581,52.2604495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>Wysockiego Piotra 14/94 </name>
+            <address>Wysockiego Piotra 14/94 </address>
+            <description>cena/m2 5266 area: 62</description>
+            <Point id="geom_166">
+                <coordinates>21.0214765,52.2885559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>Górczewska 200c/254</name>
+            <address>Górczewska 200c/254</address>
+            <description>cena/m2 7415 area: 62.1</description>
+            <Point id="geom_167">
+                <coordinates>20.9102133,52.2404564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>Złotej Wilgi 8/176 </name>
+            <address>Złotej Wilgi 8/176 </address>
+            <description>cena/m2 5164 area: 62.4</description>
+            <Point id="geom_168">
+                <coordinates>21.096359,52.226217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>Grenadierów 9/40</name>
+            <address>Grenadierów 9/40</address>
+            <description>cena/m2 5449 area: 62.4</description>
+            <Point id="geom_169">
+                <coordinates>21.085902,52.2370929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>Jeździecka 21B/40 </name>
+            <address>Jeździecka 21B/40 </address>
+            <description>cena/m2 5766 area: 63</description>
+            <Point id="geom_170">
+                <coordinates>21.238331,52.219243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>Łukowska 31/159</name>
+            <address>Łukowska 31/159</address>
+            <description>cena/m2 5238 area: 63</description>
+            <Point id="geom_171">
+                <coordinates>21.0989786,52.2383212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>Smolna 9/49</name>
+            <address>Smolna 9/49</address>
+            <description>cena/m2 9056 area: 64.5</description>
+            <Point id="geom_172">
+                <coordinates>21.024538,52.233033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>Mikołajczyka 8/1 </name>
+            <address>Mikołajczyka 8/1 </address>
+            <description>cena/m2 6413 area: 64.5</description>
+            <Point id="geom_173">
+                <coordinates>21.0984143,52.2298889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>Wolfkego Mieczysława 10/76</name>
+            <address>Wolfkego Mieczysława 10/76</address>
+            <description>cena/m2 4845 area: 65</description>
+            <Point id="geom_174">
+                <coordinates>20.9264381,52.2561815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>Kamińskiego 4/22</name>
+            <address>Kamińskiego 4/22</address>
+            <description>cena/m2 5355 area: 65.2</description>
+            <Point id="geom_175">
+                <coordinates>20.9530656,52.3219364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>Lwowska 15/6 </name>
+            <address>Lwowska 15/6 </address>
+            <description>cena/m2 8123 area: 65.4</description>
+            <Point id="geom_176">
+                <coordinates>21.0122806,52.2220508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>Warchałowskiego 7/44 </name>
+            <address>Warchałowskiego 7/44 </address>
+            <description>cena/m2 6450 area: 66.2</description>
+            <Point id="geom_177">
+                <coordinates>21.0453491,52.1444053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>ul.Bacha Jana Sebastiana 10a/38 </name>
+            <address>ul.Bacha Jana Sebastiana 10a/38 </address>
+            <description>cena/m2 6566 area: 66.4</description>
+            <Point id="geom_178">
+                <coordinates>21.0316571,52.1706199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>Wiktorii Wiedeńskiej 3/16</name>
+            <address>Wiktorii Wiedeńskiej 3/16</address>
+            <description>cena/m2 6227 area: 66.5</description>
+            <Point id="geom_179">
+                <coordinates>21.0747165,52.1690824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>Komisji Edukacji Narodowej 52/100</name>
+            <address>Komisji Edukacji Narodowej 52/100</address>
+            <description>cena/m2 8504 area: 66.8</description>
+            <Point id="geom_180">
+                <coordinates>21.0542562,52.1439062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>Górczewska 181/307L</name>
+            <address>Górczewska 181/307L</address>
+            <description>cena/m2 8038 area: 67.2</description>
+            <Point id="geom_181">
+                <coordinates>20.92676,52.2398846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>Olbrachta Jana 118A/33</name>
+            <address>Olbrachta Jana 118A/33</address>
+            <description>cena/m2 7035 area: 67.5</description>
+            <Point id="geom_182">
+                <coordinates>20.9200126,52.2345693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>Kmicica 6/2</name>
+            <address>Kmicica 6/2</address>
+            <description>cena/m2 10733 area: 67.7</description>
+            <Point id="geom_183">
+                <coordinates>21.024065,52.1742597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>Puszczyka 18a/9</name>
+            <address>Puszczyka 18a/9</address>
+            <description>cena/m2 6483 area: 68.8</description>
+            <Point id="geom_184">
+                <coordinates>21.023008,52.161465,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>Górczewska 200c/466</name>
+            <address>Górczewska 200c/466</address>
+            <description>cena/m2 7342 area: 68.9</description>
+            <Point id="geom_185">
+                <coordinates>20.9102133,52.2404564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>Kredytowa 8/73 </name>
+            <address>Kredytowa 8/73 </address>
+            <description>cena/m2 11047 area: 69.3</description>
+            <Point id="geom_186">
+                <coordinates>21.0095469,52.2379139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>Przejazd 6/91 </name>
+            <address>Przejazd 6/91 </address>
+            <description>cena/m2 8781 area: 69.5</description>
+            <Point id="geom_187">
+                <coordinates>20.9883,52.1934459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>Pogodna 17A/29</name>
+            <address>Pogodna 17A/29</address>
+            <description>cena/m2 4549 area: 69.5</description>
+            <Point id="geom_188">
+                <coordinates>21.240149,52.2195599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>Warchałowskiego 2/78</name>
+            <address>Warchałowskiego 2/78</address>
+            <description>cena/m2 6445 area: 70.6</description>
+            <Point id="geom_189">
+                <coordinates>21.0464033,52.1440795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>Miklaszewskiego 14/66</name>
+            <address>Miklaszewskiego 14/66</address>
+            <description>cena/m2 6775 area: 70.7</description>
+            <Point id="geom_190">
+                <coordinates>21.0370217,52.1490654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>Fasolowa 21/2 </name>
+            <address>Fasolowa 21/2 </address>
+            <description>cena/m2 6233 area: 70.9</description>
+            <Point id="geom_191">
+                <coordinates>20.907836,52.1985419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>Kobielska 13/31</name>
+            <address>Kobielska 13/31</address>
+            <description>cena/m2 5569 area: 72</description>
+            <Point id="geom_192">
+                <coordinates>21.0878929,52.24644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>Okrąg 4/39</name>
+            <address>Okrąg 4/39</address>
+            <description>cena/m2 7963 area: 72</description>
+            <Point id="geom_193">
+                <coordinates>21.0363149,52.22965,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>Hawajska 16/10</name>
+            <address>Hawajska 16/10</address>
+            <description>cena/m2 5857 area: 72.2</description>
+            <Point id="geom_194">
+                <coordinates>21.0406209,52.151232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>Kochanowskiego Jana 51/44</name>
+            <address>Kochanowskiego Jana 51/44</address>
+            <description>cena/m2 6338 area: 73.4</description>
+            <Point id="geom_195">
+                <coordinates>20.9364513,52.2705396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>Obrzeżna 5c/8</name>
+            <address>Obrzeżna 5c/8</address>
+            <description>cena/m2 8144 area: 74.3</description>
+            <Point id="geom_196">
+                <coordinates>20.999693,52.17449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>Dworkowa 2/19</name>
+            <address>Dworkowa 2/19</address>
+            <description>cena/m2 7156 area: 74.7</description>
+            <Point id="geom_197">
+                <coordinates>21.0240206,52.2056631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>Wolska 78/80/42</name>
+            <address>Wolska 78/80/42</address>
+            <description>cena/m2 6214 area: 75.1</description>
+            <Point id="geom_198">
+                <coordinates>20.960414,52.23262,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>Kępna 2/10 </name>
+            <address>Kępna 2/10 </address>
+            <description>cena/m2 5831 area: 75.8</description>
+            <Point id="geom_199">
+                <coordinates>21.037945,52.250124,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>Gwiaździsta 15 A/123</name>
+            <address>Gwiaździsta 15 A/123</address>
+            <description>cena/m2 7983 area: 75.8</description>
+            <Point id="geom_200">
+                <coordinates>20.9848524,52.2811783,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>Myśliborska 24A/28</name>
+            <address>Myśliborska 24A/28</address>
+            <description>cena/m2 5850 area: 75.9</description>
+            <Point id="geom_201">
+                <coordinates>20.9788285,52.303495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>Dzięcieliny 3/40 </name>
+            <address>Dzięcieliny 3/40 </address>
+            <description>cena/m2 6512 area: 76.5</description>
+            <Point id="geom_202">
+                <coordinates>21.1928001,52.2087953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>Zadumana 1a/230 </name>
+            <address>Zadumana 1a/230 </address>
+            <description>cena/m2 7266 area: 76.5</description>
+            <Point id="geom_203">
+                <coordinates>20.950378,52.2042529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>Bielawska 6/55</name>
+            <address>Bielawska 6/55</address>
+            <description>cena/m2 9009 area: 76.8</description>
+            <Point id="geom_204">
+                <coordinates>21.0276679,52.193982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>Strumykowa 40F/17 </name>
+            <address>Strumykowa 40F/17 </address>
+            <description>cena/m2 5391 area: 78.1</description>
+            <Point id="geom_205">
+                <coordinates>20.944462,52.3332319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>Białostocka 5/130</name>
+            <address>Białostocka 5/130</address>
+            <description>cena/m2 5280 area: 78.5</description>
+            <Point id="geom_206">
+                <coordinates>21.040733,52.2557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>Doroszewskiego Witolda 7/36</name>
+            <address>Doroszewskiego Witolda 7/36</address>
+            <description>cena/m2 5563 area: 78.8</description>
+            <Point id="geom_207">
+                <coordinates>20.9008137,52.2376723,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>Al. Rzeczypospolitej 2/2</name>
+            <address>Al. Rzeczypospolitej 2/2</address>
+            <description>cena/m2 7718 area: 79.3</description>
+            <Point id="geom_208">
+                <coordinates>21.0820556,52.1547677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>Jana Nowaka Jeziorańskiego 9/246</name>
+            <address>Jana Nowaka Jeziorańskiego 9/246</address>
+            <description>cena/m2 7255 area: 79.5</description>
+            <Point id="geom_209">
+                <coordinates>21.1046267,52.2298744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>Dolna 11/3</name>
+            <address>Dolna 11/3</address>
+            <description>cena/m2 8951 area: 80.1</description>
+            <Point id="geom_210">
+                <coordinates>21.0315999,52.2008779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>Smolna 38/11</name>
+            <address>Smolna 38/11</address>
+            <description>cena/m2 11572 area: 80.5</description>
+            <Point id="geom_211">
+                <coordinates>21.0216563,52.2326515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>Al. Jana Pawła II 61/127</name>
+            <address>Al. Jana Pawła II 61/127</address>
+            <description>cena/m2 8634 area: 82</description>
+            <Point id="geom_212">
+                <coordinates>20.9883079,52.2474925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>Roentgena 45/5</name>
+            <address>Roentgena 45/5</address>
+            <description>cena/m2 7175 area: 82.1</description>
+            <Point id="geom_213">
+                <coordinates>21.0250464,52.1430401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>Jana Olbrachta 112/110</name>
+            <address>Jana Olbrachta 112/110</address>
+            <description>cena/m2 6808 area: 82.2</description>
+            <Point id="geom_214">
+                <coordinates>20.9221691,52.2345152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>Skarbka z Gór 17/U-2</name>
+            <address>Skarbka z Gór 17/U-2</address>
+            <description>cena/m2 5984 area: 82.4</description>
+            <Point id="geom_215">
+                <coordinates>21.059928,52.315421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>Parkowa 19/3 </name>
+            <address>Parkowa 19/3 </address>
+            <description>cena/m2 24429 area: 83.2</description>
+            <Point id="geom_216">
+                <coordinates>21.031335,52.209398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>Związku Walki Młodych 18/73</name>
+            <address>Związku Walki Młodych 18/73</address>
+            <description>cena/m2 5927 area: 84.1</description>
+            <Point id="geom_217">
+                <coordinates>21.038988,52.1602089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>Pietraszewicza Bronisława 7/1</name>
+            <address>Pietraszewicza Bronisława 7/1</address>
+            <description>cena/m2 7313 area: 84.1</description>
+            <Point id="geom_218">
+                <coordinates>21.0649423,52.1455623,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>Mydlarska 15a/12 </name>
+            <address>Mydlarska 15a/12 </address>
+            <description>cena/m2 6055 area: 84.2</description>
+            <Point id="geom_219">
+                <coordinates>21.1495015,52.2078135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>Okaryny 1b/2</name>
+            <address>Okaryny 1b/2</address>
+            <description>cena/m2 6178 area: 84.4</description>
+            <Point id="geom_220">
+                <coordinates>21.0346829,52.163559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>Prymasa Tysiąclecia 155/14</name>
+            <address>Prymasa Tysiąclecia 155/14</address>
+            <description>cena/m2 6378 area: 84.5</description>
+            <Point id="geom_221">
+                <coordinates>20.955509,52.249677,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>Anielewicza Mordechaja 9/16A</name>
+            <address>Anielewicza Mordechaja 9/16A</address>
+            <description>cena/m2 6599 area: 85.3</description>
+            <Point id="geom_222">
+                <coordinates>20.993881,52.2483592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>Milenijna 41A/11</name>
+            <address>Milenijna 41A/11</address>
+            <description>cena/m2 6008 area: 85.6</description>
+            <Point id="geom_223">
+                <coordinates>20.9608679,52.3226309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>Skarbka z Gór 134/39</name>
+            <address>Skarbka z Gór 134/39</address>
+            <description>cena/m2 5593 area: 86</description>
+            <Point id="geom_224">
+                <coordinates>21.0574331,52.3214697,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>Kobielska 6/5</name>
+            <address>Kobielska 6/5</address>
+            <description>cena/m2 7641 area: 87.9</description>
+            <Point id="geom_225">
+                <coordinates>21.0902473,52.2471171,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>Wilanowska 111A/13</name>
+            <address>Wilanowska 111A/13</address>
+            <description>cena/m2 8377 area: 88.9</description>
+            <Point id="geom_226">
+                <coordinates>21.047583,52.1736749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>Palmowa 15 d/2</name>
+            <address>Palmowa 15 d/2</address>
+            <description>cena/m2 3826 area: 90.7</description>
+            <Point id="geom_227">
+                <coordinates>21.140974,52.2169249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>Wałbrzyska 19/43</name>
+            <address>Wałbrzyska 19/43</address>
+            <description>cena/m2 6473 area: 90.9</description>
+            <Point id="geom_228">
+                <coordinates>21.022486,52.1728389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>Sarmacka 28/61 </name>
+            <address>Sarmacka 28/61 </address>
+            <description>cena/m2 8048 area: 91.7</description>
+            <Point id="geom_229">
+                <coordinates>21.0814848,52.1558524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>Marszałkowska 20/22/71 </name>
+            <address>Marszałkowska 20/22/71 </address>
+            <description>cena/m2 9538 area: 92.5</description>
+            <Point id="geom_230">
+                <coordinates>21.020163,52.2165887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>Kaden-Bandrowskiego 8/88 </name>
+            <address>Kaden-Bandrowskiego 8/88 </address>
+            <description>cena/m2 5250 area: 93.9</description>
+            <Point id="geom_231">
+                <coordinates>20.9254309,52.2496282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>Puławska 270/64 </name>
+            <address>Puławska 270/64 </address>
+            <description>cena/m2 7276 area: 94.6</description>
+            <Point id="geom_232">
+                <coordinates>21.015828,52.155228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>Jerozolimskie 49/23</name>
+            <address>Jerozolimskie 49/23</address>
+            <description>cena/m2 9150 area: 98.1</description>
+            <Point id="geom_233">
+                <coordinates>21.0087218,52.2290121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>Bukowińska 12/901</name>
+            <address>Bukowińska 12/901</address>
+            <description>cena/m2 8774 area: 98.6</description>
+            <Point id="geom_234">
+                <coordinates>21.0272153,52.1800228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>Świętosławska 5/1</name>
+            <address>Świętosławska 5/1</address>
+            <description>cena/m2 6111 area: 100.6</description>
+            <Point id="geom_235">
+                <coordinates>21.0826123,52.2390605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>Parkowa 19/4 </name>
+            <address>Parkowa 19/4 </address>
+            <description>cena/m2 24623 area: 102.2</description>
+            <Point id="geom_236">
+                <coordinates>21.031335,52.209398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>Sułkowskiego  4/ 5 </name>
+            <address>Sułkowskiego  4/ 5 </address>
+            <description>cena/m2 10426 area: 103.4</description>
+            <Point id="geom_237">
+                <coordinates>20.9913322,52.2712944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>Arkadowa 29/4 </name>
+            <address>Arkadowa 29/4 </address>
+            <description>cena/m2 5841 area: 104.1</description>
+            <Point id="geom_238">
+                <coordinates>21.0451008,52.1687976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>Słomińskiego 15/12</name>
+            <address>Słomińskiego 15/12</address>
+            <description>cena/m2 13064 area: 104.1</description>
+            <Point id="geom_239">
+                <coordinates>20.9872121,52.2558553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>Majdańska 12/18</name>
+            <address>Majdańska 12/18</address>
+            <description>cena/m2 6759 area: 110.5</description>
+            <Point id="geom_240">
+                <coordinates>21.08791,52.2399889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>Rejsu 2/15</name>
+            <address>Rejsu 2/15</address>
+            <description>cena/m2 8961 area: 113.3</description>
+            <Point id="geom_241">
+                <coordinates>20.9879984,52.1943955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>Chodkiewicza 7/64 </name>
+            <address>Chodkiewicza 7/64 </address>
+            <description>cena/m2 11969 area: 121</description>
+            <Point id="geom_242">
+                <coordinates>21.2332347,52.2510348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>Belgradzka 4/91 </name>
+            <address>Belgradzka 4/91 </address>
+            <description>cena/m2 4114 area: 121.7</description>
+            <Point id="geom_243">
+                <coordinates>21.0646965,52.1421614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>Klimczaka 10D/15</name>
+            <address>Klimczaka 10D/15</address>
+            <description>cena/m2 9945 area: 121.8</description>
+            <Point id="geom_244">
+                <coordinates>21.0760756,52.1631531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>Łucka 20/97</name>
+            <address>Łucka 20/97</address>
+            <description>cena/m2 6480 area: 123.3</description>
+            <Point id="geom_245">
+                <coordinates>20.9870913,52.2325423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>Fasolowa 39A/12 </name>
+            <address>Fasolowa 39A/12 </address>
+            <description>cena/m2 5854 area: 125.6</description>
+            <Point id="geom_246">
+                <coordinates>20.905047,52.199497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>Bitwy Pod Rokitną 1/31 </name>
+            <address>Bitwy Pod Rokitną 1/31 </address>
+            <description>cena/m2 19204 area: 134.7</description>
+            <Point id="geom_247">
+                <coordinates>20.985718,52.261779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>Gandhi Indiry 35/186</name>
+            <address>Gandhi Indiry 35/186</address>
+            <description>cena/m2 8463 area: 140.8</description>
+            <Point id="geom_248">
+                <coordinates>21.0349855,52.1443517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>Pory 61/73</name>
+            <address>Pory 61/73</address>
+            <description>cena/m2 7486 area: 142</description>
+            <Point id="geom_249">
+                <coordinates>21.0432934,52.1841798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>Sarmacka 10 D/30</name>
+            <address>Sarmacka 10 D/30</address>
+            <description>cena/m2 7148 area: 143.8</description>
+            <Point id="geom_250">
+                <coordinates>21.0741859,52.1640869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>Cybernetyki 13/69</name>
+            <address>Cybernetyki 13/69</address>
+            <description>cena/m2 8611 area: 145.9</description>
+            <Point id="geom_251">
+                <coordinates>20.993318,52.1758809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>Jana Pawła II 61/171 </name>
+            <address>Jana Pawła II 61/171 </address>
+            <description>cena/m2 7977 area: 146</description>
+            <Point id="geom_252">
+                <coordinates>21.2232254,52.2183166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>Sarmacka 10 D/1</name>
+            <address>Sarmacka 10 D/1</address>
+            <description>cena/m2 7283 area: 153.7</description>
+            <Point id="geom_253">
+                <coordinates>21.0741859,52.1640869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>Sandomierska 18/14</name>
+            <address>Sandomierska 18/14</address>
+            <description>cena/m2 6923 area: 168.5</description>
+            <Point id="geom_254">
+                <coordinates>21.0188179,52.2090224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>Kolektorska 24/1</name>
+            <address>Kolektorska 24/1</address>
+            <description>cena/m2 5282 area: 173.2</description>
+            <Point id="geom_255">
+                <coordinates>20.9692839,52.2757859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>Sarmacka 10D/16</name>
+            <address>Sarmacka 10D/16</address>
+            <description>cena/m2 7962 area: 200.5</description>
+            <Point id="geom_256">
+                <coordinates>21.0727236,52.1634653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>Barska 5/33</name>
+            <address>Barska 5/33</address>
+            <description>cena/m2 8645 area: 244</description>
+            <Point id="geom_257">
+                <coordinates>20.9816879,52.2186169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>Janinówka 9</name>
+            <address>Janinówka 9</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_258">
+                <coordinates>21.0603759,52.2716403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>Grochowska 173A/26</name>
+            <address>Grochowska 173A/26</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_259">
+                <coordinates>21.09396,52.2433769,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>Grochowska 175/1</name>
+            <address>Grochowska 175/1</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_260">
+                <coordinates>21.0936071,52.2438762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>Batumi 4/18</name>
+            <address>Batumi 4/18</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_261">
+                <coordinates>21.051958,52.181694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>Górczewska 200A/187</name>
+            <address>Górczewska 200A/187</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_262">
+                <coordinates>20.9111631,52.2403129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>Chełmońskiego 9/23</name>
+            <address>Chełmońskiego 9/23</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_263">
+                <coordinates>20.9038502,52.1915878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>Stępińska 48/58/34</name>
+            <address>Stępińska 48/58/34</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_264">
+                <coordinates>21.0376632,52.2089521,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>Smulikowskiego 13/14</name>
+            <address>Smulikowskiego 13/14</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_265">
+                <coordinates>21.0294772,52.2384189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>Anielewicza 4/20</name>
+            <address>Anielewicza 4/20</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_266">
+                <coordinates>20.9963764,52.2493065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>Szekspira 4/28</name>
+            <address>Szekspira 4/28</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_267">
+                <coordinates>20.9342156,52.2859817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>Jeździecka 21B/40</name>
+            <address>Jeździecka 21B/40</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_268">
+                <coordinates>21.238331,52.219243,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>Jana Pawła II 23/3</name>
+            <address>Jana Pawła II 23/3</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_269">
+                <coordinates>21.2379086,52.2163343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>Juranda ze Spychowa 55/1</name>
+            <address>Juranda ze Spychowa 55/1</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_270">
+                <coordinates>21.043208,52.3178289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>Przasnyska 17/50</name>
+            <address>Przasnyska 17/50</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_271">
+                <coordinates>20.9637189,52.2632939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>Smolna 38/12</name>
+            <address>Smolna 38/12</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_272">
+                <coordinates>21.0216563,52.2326515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>Bukowińska 24A/145</name>
+            <address>Bukowińska 24A/145</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_273">
+                <coordinates>21.0263821,52.1818989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>Świderska 113B/55</name>
+            <address>Świderska 113B/55</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_274">
+                <coordinates>20.9448736,52.3185876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>Cicha 3/11</name>
+            <address>Cicha 3/11</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_275">
+                <coordinates>21.024324,52.23748,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>Smolna 38/14</name>
+            <address>Smolna 38/14</address>
+            <description>cena/m2 #DIV/0! area: </description>
+            <Point id="geom_276">
+                <coordinates>21.0216563,52.2326515,0.0</coordinates>
             </Point>
         </Placemark>
     </Document>
